@@ -45,7 +45,7 @@ The packages can be easily installed by pip install.
 
 3. Run the python file (including the evaluation on the testing set).
 
-`python Train.py`
+  `python Train.py`
 
 
 ### The other details will be updated soon.
